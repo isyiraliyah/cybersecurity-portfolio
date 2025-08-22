@@ -18,12 +18,6 @@ This portfolio highlights my projects, hands-on labs, and certifications as I wo
 
 ---
 
-## 📂 Projects & Notes
-- [Google Certificate Notes](courses/)  
-- [TryHackMe Write-ups](projects/)  
-
----
-
 ## 🧰 Skills Gained
 - Risk Management & Security Policies  
 - Network Security (TCP/IP, VPN, Firewalls, IDS/IPS, Encryption)  
