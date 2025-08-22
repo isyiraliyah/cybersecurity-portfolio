@@ -1,4 +1,4 @@
-# 🔐 Cybersecurity Portfolio — Aliyah
+hi# 🔐 Cybersecurity Portfolio — Aliyah
 
 Hi, I’m Aliyah 👋  
 I’m a Computer Science student at the University of Greenwich (graduating 2026) with a growing focus on cybersecurity.  
@@ -11,12 +11,6 @@ This portfolio highlights my projects, hands-on labs, and certifications as I wo
   - Foundations of Cybersecurity  
   - Manage Security Risks  
   - Networks & Network Security  
-- **TryHackMe Labs** (intro rooms)  
-  - Offensive Security Intro  
-  - Defensive Security Intro  
-  - Linux Fundamentals  
-
----
 
 ## 🧰 Skills Gained
 - Risk Management & Security Policies  
