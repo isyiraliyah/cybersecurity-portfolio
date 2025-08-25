@@ -8,7 +8,7 @@ Each project demonstrates practical application of the concepts covered in the c
 ## 📂 Projects
 - [Controls and Compliance Checklist](Controls_and_compliance_checklist.pdf)
   Completed a security controls and compliance assessment for Botium Toys, covering frameworks such as PCI DSS, GDPR, and SOC.
-- [Cybersecurity Incident Report: Network Traffic Analysis](Cybersecurity-incident-report-network-traffic-analysis.pdf)  
+- [Cybersecurity Incident Report: Network Traffic Analysis](Cybersecurity_incident_report_network_traffic_analysis.pdf)  
   Investigated DNS and ICMP traffic logs, identified that DNS queries were failing due to UDP port 53 being unreachable, and documented findings in an incident report.
 
 ---
