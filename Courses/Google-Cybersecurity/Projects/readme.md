@@ -6,7 +6,7 @@ Each project demonstrates practical application of the concepts covered in the c
 ---
 
 ## 📂 Projects
-- [Controls and Compliance Checklist](Controls-and-Compliance-Checklist.pdf)  
+- [Controls and Compliance Checklist](Controls_and_compliance_checklist.pdf)
   Completed a security controls and compliance assessment for Botium Toys, covering frameworks such as PCI DSS, GDPR, and SOC.
 
 ---
