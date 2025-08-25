@@ -17,8 +17,19 @@ This portfolio highlights my projects, hands-on labs, and certifications as I wo
 - Network Security (TCP/IP, VPN, Firewalls, IDS/IPS, Encryption)  
 - Vulnerability Management & Threat Modeling  
 - Linux Fundamentals & Command Line  
-- Hands-on practice with TryHackMe and security tools  
-
+- Hands-on practice with TryHackMe and security tools
+- Computer Networks
+- Log Inspection
+- Web Security
+- Communication
+- Cybersecurity
+- Data Analysis
+- Data Presentation
+- Design Thinking
+- Problem Solving
+- Security Awareness Training
+- Strategy
+- Technical Security Awareness
 ---
 
 ## 📬 Contact
