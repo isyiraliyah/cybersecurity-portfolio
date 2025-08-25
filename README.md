@@ -1,4 +1,4 @@
-hi# 🔐 Cybersecurity Portfolio — Aliyah
+🔐 Cybersecurity Portfolio — Aliyah
 
 Hi, I’m Aliyah 👋  
 I’m a Computer Science student at the University of Greenwich (graduating 2026) with a growing focus on cybersecurity.  
