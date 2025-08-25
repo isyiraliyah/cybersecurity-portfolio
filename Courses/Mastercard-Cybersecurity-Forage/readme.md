@@ -10,6 +10,6 @@
 - Implemented training courses and procedures tailored for those teams  
 
 ## Project Files
-- [Presentation Slides](mastercard_phishing_awareness.pptx)
+- [Presentation Slides](mastercard_phishing_awareness.pdf)
 
 
