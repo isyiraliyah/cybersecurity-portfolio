@@ -10,7 +10,7 @@ This portfolio highlights my projects, hands-on labs, and certifications as I wo
 - **Google Cybersecurity Professional Certificate** (in progress)  
   - Foundations of Cybersecurity  
   - Manage Security Risks  
-  - Networks & Network Security  
+  - Networks & Network Security
 
 ## 🧰 Skills Gained
 - Risk Management & Security Policies  
