@@ -9,6 +9,7 @@ This folder will contain proof of my completed certifications
     ![Manage Security Risks Certificate](google-manage-security-risks.JPG)  
   - Networks & Network Security *(In Progress)*
   - [Mastercard Cybersecurity Job Simulation (Forage)](mastercard-cybersecurity-forage.pdf) *Completed – Aug 25, 2025*
+  - [Deloitte Australia Cyber Security Job Simulation (Forage)](deloitte-cybersecurity-forage.pdf) *Completed – Aug 25, 2025*  
 
 
 📌 Certificates (PDFs/screenshots) will be uploaded here once available.
