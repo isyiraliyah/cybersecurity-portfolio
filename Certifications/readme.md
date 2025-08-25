@@ -9,6 +9,6 @@ This folder will contain proof of my completed certifications
     ![Manage Security Risks Certificate](google-manage-security-risks.JPG)  
   - Networks & Network Security *(In Progress)*
   - Mastercard Cybersecurity Job Simulation (Forage) *Completed – Aug 25, 2025*  
-    ![Mastercard Cybersecurity Certificate](mastercard-cybersecurity-forage.JPG)
+    ![Mastercard Cybersecurity Certificate](mastercard-cybersecurity-forage.PDF)
 
 📌 Certificates (PDFs/screenshots) will be uploaded here once available.
