@@ -15,7 +15,11 @@ Each project demonstrates practical application of the concepts covered in the c
   - Logs showed repeated SYN packets from a single IP address flooding the server.
   - Errors included **gateway timeouts** and **SYN-ACK packets not received → RST responses**.  
   - Only a few successful TCP three-way handshakes were observed.  
-  - Confirmed the root cause as a **SYN flood / DoS attack** disrupting normal connections. 
+  - Confirmed the root cause as a **SYN flood / DoS attack** disrupting normal connections.
+- [Cybersecurity Incident Report: Website Malware and Redirect Attack](Security_Incident_Report_Website_Malware_and_Redirect_Attack.pdf)
+  - Analyzed tcpdump logs and a sandboxed attack scenario involving a compromised website.
+  - Discovered a brute force attack used to gain admin access, malicious JavaScript injection prompting users to download malware, and a redirect     to a fake site (greatrecipesforme.com).
+  - Recommended implementing MFA, strong password policies, and account lockouts to prevent brute force attacks.
 
 ---
 
