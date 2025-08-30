@@ -22,8 +22,10 @@ Each project demonstrates practical application of the concepts covered in the c
   - Recommended implementing MFA, strong password policies, and account lockouts to prevent brute force attacks.
 - [Security Risk Assessment: Social Media Data Breach](Security_Risk_Assessment_SocMed_Data_Breach.pdf)
   Evaluated a breach caused by weak passwords, default admin credentials, and lack of MFA/firewall rules; proposed hardening measures to prevent future attacks.
-
-
+- [Cybersecurity Incident Report: ICMP Flood DDoS Attack](Incident_report_analysis_DDoS_Attack.pdf)
+  - Investigated a Distributed Denial-of-Service (DDoS) attack that used an ICMP flood to overwhelm the company’s network, exploiting an unconfigured firewall.
+  - Documented a two-hour outage that prevented internal traffic from accessing critical services.
+  - Applied the NIST Cybersecurity Framework (Identify, Protect, Detect, Respond, Recover) to analyze security gaps, propose mitigation strategies, and strengthen defenses.
 ---
 
 ⭐️ More projects will be added here as I progress through the certificate.
