@@ -18,8 +18,11 @@ Each project demonstrates practical application of the concepts covered in the c
   - Confirmed the root cause as a **SYN flood / DoS attack** disrupting normal connections.
 - [Cybersecurity Incident Report: Website Malware and Redirect Attack](Security_Incident_Report_Website_Malware_and_Redirect_Attack.pdf)
   - Analyzed tcpdump logs and a sandboxed attack scenario involving a compromised website.
-  - Discovered a brute force attack used to gain admin access, malicious JavaScript injection prompting users to download malware, and a redirect     to a fake site (greatrecipesforme.com).
+  - Discovered a brute force attack used to gain admin access, malicious JavaScript injection prompting users to download malware, and a redirect to a fake site (greatrecipesforme.com).
   - Recommended implementing MFA, strong password policies, and account lockouts to prevent brute force attacks.
+- [Security Risk Assessment: Social Media Data Breach](Security_Risk_Assessment_SocMed_Data_Breach.pdf)
+  Evaluated a breach caused by weak passwords, default admin credentials, and lack of MFA/firewall rules; proposed hardening measures to prevent future attacks.
+
 
 ---
 
